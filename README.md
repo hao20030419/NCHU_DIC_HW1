@@ -1,7 +1,7 @@
 # 個人網頁 - Ting Hao
 
 這是一個為 **Ting Hao** 設計的現代化個人單頁網站，採用了最新的 **Glassmorphism (玻璃擬態)** 設計風格，並結合了動態時鐘功能。
-
+Live Demo:https://hao20030419.github.io/NCHU_DIC_HW1/
 ## ✨ 特色功能
 
 - **即時時鐘 (Live Clock)**：
