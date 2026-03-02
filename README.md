@@ -1,0 +1,1 @@
+# NCHU_DIC_HW1
